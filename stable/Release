@@ -1,0 +1,98 @@
+Origin: Debian
+Label: Debian
+Suite: Debian
+Codename: DaoXiangHu-stable
+Version: 10.4
+Date: Wed, 17 Apr 2024 09:18:26 UTC
+Architectures: loongarch64
+Components: main contrib non-free
+MD5Sum:
+ bf9ebdd88ec53b1a5773c41232654893 56422905 main/binary-loongarch64/Packages
+ d2e608883e357611afaceb2a2b89e0ac 15970422 main/binary-loongarch64/Packages.gz
+ 3ba9f95dccdd8a91e3e0b1740b71a6a2 101 main/binary-loongarch64/Release
+ 85bcc7b0ac04fdeceece1bde7af5cd17 366071 main/debian-installer/binary-loongarch64/Packages
+ 3e32cca77e67fef5bf93ac98254bc568 90990 main/debian-installer/binary-loongarch64/Packages.gz
+ 0774be21a34692a340c6d48389e83bc0 46377542 main/source/Sources
+ 94f98b073a5cf87ed6be2bd1c6d82197 12358189 main/source/Sources.gz
+ 157a35160bec7de8e053134e5a689222 96 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-loongarch64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-loongarch64/Packages.gz
+ 59e3837f1e65fbeaf66203b5b867e78c 104 contrib/binary-loongarch64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ bf7249fa03d6d844ae9f48c7659c4f13 99 contrib/source/Release
+ 473cad487a6bf65f63d60dcc30cd30eb 422362 non-free/binary-loongarch64/Packages
+ 8cd2bdc8023040f7b9eb4b4def3d5fc0 108744 non-free/binary-loongarch64/Packages.gz
+ cb1c0de70defdf1248458be545750c34 105 non-free/binary-loongarch64/Release
+ 98515af38c88a62539754d30355ea620 423028 non-free/source/Sources
+ 6012c73115b18692b3f7f93cdb3572cc 117104 non-free/source/Sources.gz
+ b65cbf32728e65bea0f73bb54a6384bf 100 non-free/source/Release
+ 4ac4cd60cb2081b902cfa8c371a82f15 396530657 main/Contents-loongarch64
+ e0853ecd1a45e0716775a5768e09bf6a 27622914 main/Contents-loongarch64.gz
+ 329b9c011051cde08640569f03f16d00 20792560 main/Contents-loongarch64.xz
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/Contents-loongarch64
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/Contents-loongarch64.gz
+ 8dc5aea5b03dff8595f096f9e368e888 32 contrib/Contents-loongarch64.xz
+ f091a6e4a48b82b5145e366a217f0800 7393889 non-free/Contents-loongarch64
+ d48b042885de19093bdc28d01e09c595 402863 non-free/Contents-loongarch64.gz
+ 73c0972a25934f72275520d660a457fc 304316 non-free/Contents-loongarch64.xz
+SHA1:
+ 200fd0d65b745f8f41762f54b9f0a556a565fd62 56422905 main/binary-loongarch64/Packages
+ df5f503c5935e7703c84b1caa6c1263ac42508f6 15970422 main/binary-loongarch64/Packages.gz
+ efb790ee9ce902520e097f22a48c023716f08d88 101 main/binary-loongarch64/Release
+ fca38cf293c93e2cfff2f44d842d342c486b0576 366071 main/debian-installer/binary-loongarch64/Packages
+ 7664cb52c2d800ef053d45649b80931df20407e4 90990 main/debian-installer/binary-loongarch64/Packages.gz
+ 435bcc8d38199eb978c9a5c184e15f3cd024f092 46377542 main/source/Sources
+ b7a82b142dd850562b167df85292388992e7eafb 12358189 main/source/Sources.gz
+ e3d6ee8e06f172e31ad317cd5b59c1a813e1d7fd 96 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-loongarch64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-loongarch64/Packages.gz
+ 3b97488b793aa3ab1415a778353023bcda88f67a 104 contrib/binary-loongarch64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ fb29300836ad4f3409e517fd56b1d1d1d6cf0900 99 contrib/source/Release
+ 915702c429c0168d9dae6830c8672d629e2536de 422362 non-free/binary-loongarch64/Packages
+ 5419315161a6d4b97a04a94ca7b72a5e864960cd 108744 non-free/binary-loongarch64/Packages.gz
+ 3c76ad8dc399ee3ba5d25b38c67b9d62d69faaa7 105 non-free/binary-loongarch64/Release
+ 36cf60e43352148ecfe6cd8a8ea76c0bbd1fa915 423028 non-free/source/Sources
+ 0847c19eed92e2a7cc157049d645cbed16e33522 117104 non-free/source/Sources.gz
+ ef5ec23c71dc26289d6788c76269a243252d639f 100 non-free/source/Release
+ b33a2dcd37053a066a403ecc7751315225170bbf 396530657 main/Contents-loongarch64
+ c772161446e52afe0de8a0fc18b873e8956e56a3 27622914 main/Contents-loongarch64.gz
+ 49a716b7f5e94928f06da429d75842d33a4b3922 20792560 main/Contents-loongarch64.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/Contents-loongarch64
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/Contents-loongarch64.gz
+ 9746882f4236fa1c3a8f86be2f1d9c46680c0b10 32 contrib/Contents-loongarch64.xz
+ 0344228ea07bbc50bb6e338dfdd8ee16d06167e6 7393889 non-free/Contents-loongarch64
+ 53b63b30d6af11681cdfc7a30089b5967e3d7fa5 402863 non-free/Contents-loongarch64.gz
+ d56be6803792babd748be93b429e55e3bc0697d8 304316 non-free/Contents-loongarch64.xz
+SHA256:
+ f208494ff338eb4bb7c019968684f28a1555671f4938e8b83b93d110f3c83d0d 56422905 main/binary-loongarch64/Packages
+ 6c716a083edcb95d125848cbb35a9f3c109a572e0fa1cfa8518a09624818ede3 15970422 main/binary-loongarch64/Packages.gz
+ d1e4fb19204715ca8f45e15366419eddae77ea91039843142cda8ae031b893d9 101 main/binary-loongarch64/Release
+ fdaa5f2a87cce0eb9d0463a7dae76d4ee78cdc52ec50e67d2774fb9abe8d3ff8 366071 main/debian-installer/binary-loongarch64/Packages
+ 7ec4b9b240bfe8a43a50f03fc580b9855b4cf4dca5ceb9488376562df05c0824 90990 main/debian-installer/binary-loongarch64/Packages.gz
+ 88dfcd2e23c52755088dcc790a8c96c2d79ebd21c650c5d9fd5c22ca278bfaa8 46377542 main/source/Sources
+ aa98ab97aad03826f83400f0adcf96e2c3f5098348ee720908d794da2ec97788 12358189 main/source/Sources.gz
+ 3d47062b4c641dad7bbe520e3c0df65954b6a9fd7867cde781a22d28c2592749 96 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-loongarch64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-loongarch64/Packages.gz
+ eecee2ddd378a87f47e05c10fe9561966342cb6d686f3c6ed00974457452b8ba 104 contrib/binary-loongarch64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ 637ac92b7c5b2718ecb4a62e86ad1d60048411b9f924c0c04b5be0bcad74fa28 99 contrib/source/Release
+ a0d7fd30d4f98c3dcd8c491fd5ab8ab5b247478af9253649ede4f13faa124ba5 422362 non-free/binary-loongarch64/Packages
+ a4c8c2307b24002b5edea911e94d6a84d6b3c5be9921dbad94b45c9aef1f9e94 108744 non-free/binary-loongarch64/Packages.gz
+ 59bd3b39906919ab75867307640b6d68059a4a92ea6249690765d83e3d26d2f2 105 non-free/binary-loongarch64/Release
+ cc1f4d7f1952f19f51e0085b15ef97892cfd35df8e4b271b4c1cd1e9de072f1e 423028 non-free/source/Sources
+ 17bc6261a0aacc2b05698671092ff12a6f50abf85f9f5bcffe56f5f23795de32 117104 non-free/source/Sources.gz
+ 8ab629f142e3f8661804361a319141b3964f84878a3d7528e614f964713d9ffc 100 non-free/source/Release
+ d49e7ab386ef92b240eb925ed65afc455e5ed83f82135ba79f3e98700c5cd7c5 396530657 main/Contents-loongarch64
+ b3691a2dab8cae2b3078c22f679d290ba3a8b2ecbc519c256fd9256325e87e33 27622914 main/Contents-loongarch64.gz
+ e0cba1344f240a61c2cb7db09a959550f8cdae79c2b48bcbfe148ffee22263d1 20792560 main/Contents-loongarch64.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/Contents-loongarch64
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/Contents-loongarch64.gz
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 contrib/Contents-loongarch64.xz
+ e014b2978e3aa42bf8427a1c22412fbce7f41194b049f0f0d7e566b52fb9629c 7393889 non-free/Contents-loongarch64
+ 6545d0c696e444f4b8f7b5f2ba07377dc58f4c8265210c204226f1664f58991d 402863 non-free/Contents-loongarch64.gz
+ c595c18a80c2617ea0a146d6ae6db962b8510317bffda2dbed9a7856e6885f80 304316 non-free/Contents-loongarch64.xz
