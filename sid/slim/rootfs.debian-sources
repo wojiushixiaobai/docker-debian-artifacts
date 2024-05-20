@@ -1,0 +1,6 @@
+Types: deb
+# http://deb.debian.org/debian-ports
+URIs: http://deb.debian.org/debian-ports
+Suites: sid unreleased
+Components: main
+Signed-By: /usr/share/keyrings/debian-ports-archive-keyring.gpg
